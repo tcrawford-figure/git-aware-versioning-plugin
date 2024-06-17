@@ -1,6 +1,6 @@
 [versions]
 
-kotlin = "1.9.24"
+kotlin = "2.0.0"
 
 jgit = "6.10.0.202406032230-r"
 kotest = "5.9.1"
